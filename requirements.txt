@@ -1,0 +1,11 @@
+numpy
+matplotlib
+seaborn
+pillow
+scikit-learn
+requests
+tensorflow==2.17 
+keras==3.3.3 
+ 
+ 
+ 
